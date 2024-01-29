@@ -16,13 +16,13 @@ export default function About() {
     transition={{ delay:0.175, }}
     id="about">
     
-        <SectionHeading children="About me"/>
+        <SectionHeading child="About Me"/>
 
         <p className='mb-3'>
             I started programming at school in the{" "}
             <span className="font-medium">software development</span> class. I wanted to deepen 
             my knowledge of programming, so I enrolled in a{" "}
-            <span className="font-medium">first degree</span> in computer science, as part of "Etgar" program.{" "}
+            <span className="font-medium">first degree</span> in computer science, as part of &#34;Etgar&#34; program.{" "}
             <span className="italic">I <span className="underline">love</span> to create
              an algorithm to a problem, and then implement this as a code</span>. I have knowledge in:{" "}
             <span className="font-medium">

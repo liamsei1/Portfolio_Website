@@ -15,7 +15,7 @@ export default function Contact() {
     className='mb-20 sm:mb-28 w-[min(100%,38rem)] text-center'
     initial={{ opacity: 0, }} whileInView={{ opacity: 1, }} 
     transition={{ duration: 1, }} viewport={{ once: true, }}>
-        <SectionHeading>Contact me</SectionHeading>
+        <SectionHeading child="Contact me" />
 
         <p className='text-gray-700 -mt-5 dark:text-white/80'>
             Please contact me at {" "}
