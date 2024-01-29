@@ -3,8 +3,8 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import cpsImg from "@/public/CPS_image.jpeg";
-import actImg from "@/public/ACT_image.png";
-import portfolioImg from "@/public/Portfolio_image.png";
+import actImg from "@/public/ACT_image.PNG";
+import portfolioImg from "@/public/Portfolio_image.PNG";
 
 export const links = [
   {
